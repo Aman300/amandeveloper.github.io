@@ -1,0 +1,45 @@
+
+*{
+    font-family: 'Lemon';font-size: 15px;
+}
+html {
+    scroll-behavior: smooth;
+  }
+.css-btn{
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 20px;
+    background-color: rgb(92, 193, 240);
+    border-radius: 50px;
+    border: none;
+    color: white;
+    transition: 0.8s;
+    box-shadow: 2px 4px 4px black;
+}
+.css-btn:hover{
+    padding: 15px 30px;
+    font-style: bold;
+    transition: 0.5s;
+    box-shadow: 2px 4px 4px black;
+    
+}
+.css-edit{
+    margin-top: 5%;
+}
+hr{
+    background-color: black;
+}
+.css-profile-img{
+    border-radius: 50px;
+    background-color: yellow;
+}
+.css-icon{
+    letter-spacing: 0.5cm;
+}
+.css-keyfram{
+    animation: infinite;
+}
+
+.my-element {
+    animation-duration: 2s; /* don't forget to set a duration! */
+  }
