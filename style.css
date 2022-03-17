@@ -36,3 +36,10 @@ hr{
 .css-icon{
     letter-spacing: 0.5cm;
 }
+.css-keyfram{
+    animation: infinite;
+}
+
+.my-element {
+    animation-duration: 2s; /* don't forget to set a duration! */
+  }
